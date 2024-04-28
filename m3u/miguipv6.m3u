@@ -1,0 +1,89 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-1" tvg-name="ßä¹¾Ö±²¥-1" tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-1
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥4K-1" tvg-name="ßä¹¾Ö±²¥4K-1"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥4K-1
+http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-4" tvg-name="ßä¹¾Ö±²¥-4"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-4
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-5" tvg-name="ßä¹¾Ö±²¥-5"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-5
+http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-6" tvg-name="ßä¹¾Ö±²¥-6"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-6
+http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-7" tvg-name="ßä¹¾Ö±²¥-7"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-7
+http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-8" tvg-name="ßä¹¾Ö±²¥-8"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-8
+http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-9" tvg-name="ßä¹¾Ö±²¥-9"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-9
+http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-10" tvg-name="ßä¹¾Ö±²¥-10"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-10
+http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-11" tvg-name="ßä¹¾Ö±²¥-11"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-11
+http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-12" tvg-name="ßä¹¾Ö±²¥-12"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-12
+http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-13" tvg-name="ßä¹¾Ö±²¥-13"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-13
+http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-14" tvg-name="ßä¹¾Ö±²¥-14"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-14
+http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-15" tvg-name="ßä¹¾Ö±²¥-15"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-15
+http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-16" tvg-name="ßä¹¾Ö±²¥-16"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-16
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-17" tvg-name="ßä¹¾Ö±²¥-17"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-17
+http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-18" tvg-name="ßä¹¾Ö±²¥-18"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-18
+http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-19" tvg-name="ßä¹¾Ö±²¥-19"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-19
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-20" tvg-name="ßä¹¾Ö±²¥-20"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-20
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-21" tvg-name="ßä¹¾Ö±²¥-21"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-21
+http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-22" tvg-name="ßä¹¾Ö±²¥-22"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-22
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-23" tvg-name="ßä¹¾Ö±²¥-23"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-23
+http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-28" tvg-name="ßä¹¾Ö±²¥-28"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-28
+http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-29" tvg-name="ßä¹¾Ö±²¥-29"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-29
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-30" tvg-name="ßä¹¾Ö±²¥-30"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-30
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-31" tvg-name="ßä¹¾Ö±²¥-31"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-31
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-37" tvg-name="ßä¹¾Ö±²¥-37"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-37
+http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-38" tvg-name="ßä¹¾Ö±²¥-38"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-38
+http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-39" tvg-name="ßä¹¾Ö±²¥-39"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-39
+http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-40" tvg-name="ßä¹¾Ö±²¥-40"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-40
+http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-41" tvg-name="ßä¹¾Ö±²¥-41"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-41
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-43" tvg-name="ßä¹¾Ö±²¥-43"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-43
+http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-45" tvg-name="ßä¹¾Ö±²¥-45"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-45
+http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-46" tvg-name="ßä¹¾Ö±²¥-46"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-46
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-47" tvg-name="ßä¹¾Ö±²¥-47"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-47
+http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-48" tvg-name="ßä¹¾Ö±²¥-48"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-48
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-49" tvg-name="ßä¹¾Ö±²¥-49"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-49
+http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-50" tvg-name="ßä¹¾Ö±²¥-50"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-50
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-51" tvg-name="ßä¹¾Ö±²¥-51"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-51
+http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-52" tvg-name="ßä¹¾Ö±²¥-52"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-52
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-53" tvg-name="ßä¹¾Ö±²¥-53"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-53
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-54" tvg-name="ßä¹¾Ö±²¥-54"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-54
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-55" tvg-name="ßä¹¾Ö±²¥-55"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-55
+http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 tvg-id="ßä¹¾Ö±²¥-56" tvg-name="ßä¹¾Ö±²¥-56"  tvg-logo="https://gitee.com/maple2008/iptv/raw/master/pic/ßä¹¾ÌåÓý.png" group-title="ßä¹¾Ö±²¥",ßä¹¾Ö±²¥-56
+http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
